@@ -12,7 +12,7 @@ We collect the following information to provide and improve our services:
  - Fitness Goals: Your objectives related to fitness and calisthenics.
  - Preferences: Information regarding your workout preferences, including any specific exercises or routines you prefer or wish to avoid.
 
-##3. Use of Information
+## 3. Use of Information
 
 Your information is used to:
 
